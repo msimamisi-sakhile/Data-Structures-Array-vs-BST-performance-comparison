@@ -1,1 +1,1 @@
-# Data-Sructures-Array-vs-BST
+# Data-Structures-Array-vs-BST
