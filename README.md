@@ -8,11 +8,11 @@ NOTE: Ensure that you are in the same directory as the Makefile
 
 STEPS TO COMPILE PROGRAM FILES
 
-1. Delete all old compiled binary files__
+1. Delete all old compiled binary files </br>
    command: make clean
    
-2. Compile all source files__
+2. Compile all source files </br>
    command: make
    
-4. Run the program__
+4. Run the program </br>
    command: make run
