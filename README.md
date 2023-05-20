@@ -14,5 +14,10 @@ STEPS TO COMPILE PROGRAM FILES
 2. Compile all source files </br>
    command: make
    
-4. Run the program </br>
-   command: make run
+4. Run the Array Data Structure program </br>
+   command: make run vaccineArrayApp
+
+5. Run the BST Data Structure program </br>
+   command: make run vaccineBSTApp
+
+
